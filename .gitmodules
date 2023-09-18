@@ -1,12 +1,12 @@
 [submodule "extern/fabm"]
 	path = extern/fabm
-	url = https://github.com/vadimzin/fabm
+	url = https://github.com/vadimzin/fabm.git
 [submodule "extern/flexout"]
 	path = extern/flexout
-	url = https://github.com/BoldingBruggeman/flexout
+	url = https://github.com/BoldingBruggeman/flexout.git
 [submodule "extern/stim"]
 	path = extern/stim
-	url = https://github.com/BoldingBruggeman/stim
+	url = https://github.com/BoldingBruggeman/stim.git
 [submodule "extern/gsw-fortran"]
 	path = extern/gsw
 	url = https://github.com/TEOS-10/GSW-Fortran.git
